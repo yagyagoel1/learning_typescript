@@ -45,4 +45,5 @@ const data3:(string| number|boolean)[]= [1,2,3,"4",true]
 let seatAllotment:"aisle"| "middle"|"window"
 
 seatAllotment =  "aisle"
-seatAllotment = "serta"
+// seatAllotment = "serta"
+export {}
